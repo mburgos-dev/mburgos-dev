@@ -63,9 +63,9 @@ I'm a **System Engineer specialized in Linux and DevOps**, with 3+ years of prof
 <p align="center">  
    <i>"Technology is best when it brings people together."</i>  
    <br><br>  
-<a target="_blank" href="www.linkedin.com/in/manuel-burgos-vidales"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>  
-<a target="_blank" href="mailto:manuel.burgos.vidales@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>  
-<a target="_blank" href="https://github.com/ManuelBurgosVidales"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>  
+<a target="_blank" href="https://www.linkedin.com/in/manuel-burgos-vidales/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>  
+<a target="_blank" href="mailto:manuelburvid@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></img></a>  
+<a target="_blank" href="https://github.com/mburgos-dev"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>  
 </p>  
 
 ------
